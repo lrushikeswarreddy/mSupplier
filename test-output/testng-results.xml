@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Script pass]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14784" started-at="2019-07-09T02:08:48Z" finished-at="2019-07-09T02:09:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14784" started-at="2019-07-09T02:08:48Z" finished-at="2019-07-09T02:09:02Z">
+      <class name="com.cr.msupplier.login.LoginTest">
+        <test-method status="PASS" signature="TestSetup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:null(com.cr.msupplier.login.LoginTest)]" name="TestSetup" duration-ms="14747" started-at="2019-07-09T02:08:48Z" finished-at="2019-07-09T02:09:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestData1.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gmail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Script pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+      </class> <!-- com.cr.msupplier.login.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
